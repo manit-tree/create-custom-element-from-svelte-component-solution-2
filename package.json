@@ -1,5 +1,6 @@
 {
-  "name": "86",
+  "name": "create-custom-element-from-svelte-component",
+  "description": "Mini project for learning how to create custom element from Svelte Component",
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
@@ -8,9 +9,8 @@
     "build": "vite build"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "author": "Mr.Manit Treeprapankit",
+  "license": "MIT",
   "devDependencies": {
     "@sveltejs/vite-plugin-svelte": "^4.0.0",
     "svelte": "^5.0.5",
